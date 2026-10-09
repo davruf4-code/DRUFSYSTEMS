@@ -25,7 +25,7 @@ export const metadata: Metadata = {
     "sitios web profesionales",
   ],
   icons: {
-    icon: "https://z-cdn.chatglm.cn/z-ai/static/logo.svg",
+    icon: "/favicon.png",
   },
   openGraph: {
     title: "DRUF SYSTEMS — Diseño & Desarrollo Web de Élite",
